@@ -32,6 +32,7 @@
   <div class="project">
     <h3>Cybersecurity and AI Project</h3>
     <p>Completed and successfully mitigated threats using advanced cybersecurity and AI techniques.</p>
+    [View My Projects](pages/projects.md)
   </div>
 </section>
 
