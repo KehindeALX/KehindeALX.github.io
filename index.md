@@ -32,20 +32,6 @@
   <div class="project">
     <h3>Cybersecurity and AI Project</h3>
     <p>Completed and successfully mitigated threats using advanced cybersecurity and AI techniques.</p>
-    <p>
-      <a href="AI and Prompt Engineering.doc" target="_blank">Download DOC</a> | 
-      <a href="CFSS PROJECT Adesunloye Kehinde.doc" download>Download DOC</a> | 
-      <a href="Copy of Mini Project 3- Personal Cyber Hygiene Audit Report" target="_blank">DOWNLOAD DOC</a>
-      <a href="Copy of Share Multi-Factor Authentication Projects 2"target="_blank">DOWNLOAD DOC</a>
-      <a href="Keylogger Detection and Packet Analysis" target="_blank">DOWNLOAD DOC</a>
-      <a href="More Success ACademy launched on Gamma App" target="_blank">DOWNLOAD DOC</a>
-      <a href="Python project.pdf" target="_blank">View PDF</a>
-      <a href="project 2.pdf" target="_blank">View PDF</a>
-      <a href="project 1 keylogger.pdf" target="_blank">View PDF</a>
-      <a href="More Success Academy ppt.ppt" target="_blank">View Presentation</a>
-      <a href="Detailed_GPS_Installation_Steps_Presentation Samuel.ppt" target="_blank">View Presentation</a>
-      <a href="Vulnerability Scanning using Nessus.doc" target="_blank">Download DOC</a>
-    </p>
   </div>
 </section>
 
