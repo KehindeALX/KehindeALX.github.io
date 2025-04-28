@@ -1,5 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
+  ---
+layout: default
+title: My Projects
+---
+# My Projects
+
+## Cybersecurity and AI Project
+Completed and successfully mitigated threats using advanced cybersecurity and AI techniques.
+
+- [Download DOC (AI and Prompt Engineering)](AI%20and%20Prompt%20Engineering.doc)
+- [View PDF (Python Project)](Python%20project.pdf)
+- [View Presentation (More Success Academy)](More%20Success%20Academy%20ppt.ppt)
+  
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
